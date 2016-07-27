@@ -3,7 +3,7 @@
 
 # Font Inspector
 # 1.2.1
-# (c) 2014 Ondrej Jób/Urtd
+# (c) 2014 Ondrej Job/Urtd
 # http://urtd.net/projects/fontinspector/
 # GPLv3
 
